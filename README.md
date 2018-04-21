@@ -2,6 +2,10 @@
 
 > a vue.js notes app
 
+## Demo avilable here:
+
+[Vue Notes](http://darraghking.ie)
+
 ## Build Setup
 
 ``` bash
